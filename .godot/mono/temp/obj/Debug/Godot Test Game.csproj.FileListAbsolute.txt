@@ -1,0 +1,17 @@
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\bin\Debug\Godot Test Game.deps.json
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\bin\Debug\Godot Test Game.runtimeconfig.json
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\bin\Debug\Godot Test Game.dll
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\bin\Debug\Godot Test Game.pdb
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\obj\Debug\Godot Test Game.csproj.AssemblyReference.cache
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\obj\Debug\Godot Test Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\obj\Debug\Godot Test Game.AssemblyInfoInputs.cache
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\obj\Debug\Godot Test Game.AssemblyInfo.cs
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\obj\Debug\Godot Test Game.csproj.CoreCompileInputs.cache
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\obj\Debug\Godot Test Game.csproj.CopyComplete
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\obj\Debug\Godot Test Game.dll
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\obj\Debug\refint\Godot Test Game.dll
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\obj\Debug\Godot Test Game.pdb
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\obj\Debug\Godot Test Game.genruntimeconfig.cache
+D:\godotTestGame\Godot Test Game\.godot\mono\temp\obj\Debug\ref\Godot Test Game.dll

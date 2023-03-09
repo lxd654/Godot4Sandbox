@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cO0ysQwWsYzXseqUL0gUsSkdrZTd/Vcoz43Zv5GvAvLOObTPBOT7siLEYePqmHF+E1VpC8c8WJZ76g8Tigk56A==",
+  "success": true,
+  "projectFilePath": "D:\\godotTestGame\\Godot Test Game\\Godot Test Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liamd\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godot.sourcegenerators\\4.0.0\\godot.sourcegenerators.4.0.0.nupkg.sha512",
+    "C:\\Users\\liamd\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godotsharp\\4.0.0\\godotsharp.4.0.0.nupkg.sha512",
+    "C:\\Users\\liamd\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godotsharpeditor\\4.0.0\\godotsharpeditor.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
